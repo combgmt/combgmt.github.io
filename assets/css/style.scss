@@ -1,0 +1,20 @@
+---
+---
+
+$header-bg-color-secondary: #16ae39;
+$header-bg-color: #8c60ad;
+// $section-headings-color: #16ae39;
+
+div#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+div#logo img {
+    width: 200px;
+    padding-right: 30px;
+    vertical-align: middle;
+}
+
+
+@import "{{ site.theme }}";
