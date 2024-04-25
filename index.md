@@ -4,9 +4,9 @@
 
 ## Invited Speakers
 
-- Janos Pach
-- Pertti Mattila
-- Alex Iosevich
+- [János Pach](https://www.renyi.hu/~pach/) (Rényi Institute of Mathematics)
+- Pertti Mattila (University of Helsinki)
+- [Alex Iosevich](https://people.math.rochester.edu/faculty/iosevich/) (University of Rochester)
 
 ## Venue
 
