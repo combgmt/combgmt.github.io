@@ -1,11 +1,12 @@
 ---
 ---
 
-$header-bg-color-secondary: #959595;
 $header-bg-color: #847d84;
+$header-bg-color-secondary: #cccccc;
 $section-headings-color: #c63418;
 .page-header {
-    background-image: url("{{ site.baseurl }}/assets/ibs.jpg") !important;background-size: cover;
+    background-image: url("{{ site.baseurl }}/assets/ibs.jpg"), linear-gradient(0deg, $header-bg-color-secondary, $header-bg-color)   !important;
+    background-size: cover;
     background-repeat: no-repeat, no-repeat;
     background-position: center, left;
     background-blend-mode: multiply;
