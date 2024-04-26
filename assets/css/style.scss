@@ -1,10 +1,16 @@
 ---
 ---
 
-$header-bg-color-secondary: #16ae39;
-$header-bg-color: #8c60ad;
-// $section-headings-color: #16ae39;
+$header-bg-color-secondary: #959595;
+$header-bg-color: #c63418;
+$section-headings-color: #c63418;
+.page-header {
+    background-image: url("{{ site.baseurl }}/assets/ibs.jpg") !important  ;background-size: cover;
+    background-repeat: no-repeat, no-repeat;
+    background-position: center, left;
+    background-blend-mode: multiply;
 
+}
 div#logo {
     display: block;
     margin-left: auto;
