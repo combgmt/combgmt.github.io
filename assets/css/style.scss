@@ -2,14 +2,13 @@
 ---
 
 $header-bg-color-secondary: #959595;
-$header-bg-color: #c63418;
+$header-bg-color: #847d84;
 $section-headings-color: #c63418;
 .page-header {
-    background-image: url("{{ site.baseurl }}/assets/ibs.jpg") !important  ;background-size: cover;
+    background-image: url("{{ site.baseurl }}/assets/ibs.jpg") !important;background-size: cover;
     background-repeat: no-repeat, no-repeat;
     background-position: center, left;
     background-blend-mode: multiply;
-
 }
 div#logo {
     display: block;
