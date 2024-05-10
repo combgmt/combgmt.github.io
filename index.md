@@ -5,10 +5,14 @@
 ## Invited Speakers
 
 - [János Pach](https://www.renyi.hu/~pach/) (Rényi Institute of Mathematics)
-- Pertti Mattila (University of Helsinki)
+- [Pertti Mattila](https://en.wikipedia.org/wiki/Pertti_Mattila) (University of Helsinki)
 - [Alex Iosevich](https://people.math.rochester.edu/faculty/iosevich/) (University of Rochester)
 
 ## Venue
+
+- Venue: Room B109, Institute for Basic Science 
+
+Travel Instructions: [https://travel.dimag.kr/](https://travel.dimag.kr/)
 
 ## Organizers
 
@@ -22,3 +26,5 @@ TBA
 ## Host 
 
 <div id="logo"><a href="https://dimag.ibs.re.kr/"><img src="/assets/dimag.png" alt="IBS Discrete Mathematics Group" /></a> 
+
+
