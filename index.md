@@ -15,7 +15,7 @@
 
 ## Venue
 
-- Venue: Room B109, Institute for Basic Science 
+- Venue: Room B109, Institute for Basic Science - photos available [here](https://dimag.ibs.re.kr/2018/12/).
 
 Travel Instructions: [https://travel.dimag.kr/](https://travel.dimag.kr/)
 
