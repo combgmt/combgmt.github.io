@@ -30,7 +30,7 @@ Travel Instructions: [https://travel.dimag.kr/](https://travel.dimag.kr/)
 TBA
 
 ## Preliminary schedule
-[Schedule (PDF)](https://github.com/user-attachments/files/15529967/IBS_workshop_on_interactions_between_combinatorics_and_measure_theory.6.pdf)
+[Schedule (PDF)](https://github.com/user-attachments/files/15531122/IBS_workshop_on_interactions_between_combinatorics_and_measure_theory.7.pdf)
 
 ## Host 
 
