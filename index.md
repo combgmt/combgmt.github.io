@@ -30,10 +30,9 @@ Travel Instructions: [https://travel.dimag.kr/](https://travel.dimag.kr/)
 TBA
 
 ## Preliminary schedule
-[Schedule (PDF)](https://github.com/user-attachments/files/15531122/IBS_workshop_on_interactions_between_combinatorics_and_measure_theory.7.pdf)
+[Schedule (PDF)](https://github.com/user-attachments/files/15535423/IBS_workshop_on_interactions_between_combinatorics_and_measure_theory.8.pdf)
 
 ## Host 
 
 <div id="logo"><a href="https://dimag.ibs.re.kr/"><img src="/assets/dimag.png" alt="IBS Discrete Mathematics Group" /></a> 
-
 
