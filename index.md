@@ -89,6 +89,15 @@ TBA
 
 [Schedule (PDF)](https://github.com/user-attachments/files/15535423/IBS_workshop_on_interactions_between_combinatorics_and_measure_theory.8.pdf)
 
+## Restaurant guide
+
+We do NOT plan to provide lunches for participants. Banquet will be provided on Wednesday evening after the excursion around Gapsa temple.
+- [Restaurant Guide around IBS](http://www.micedaejeon.com/images/djec/link/Restaurant_Guide_Book_Around_DCC_Eng.pdf) (PDF file)
+- IBS cafeteria is open for lunch (11:30-13:30) and dinner (17:30-19:30) on weekdays. Lunch costs 5,000 KRW and dinner costs 4,500 KRW. One can pay by cash or credit card. The cafeteria is located on the ground floor of the main building, very close to the workshop venue.
+- Shinsaegae Department Store (10 minutes walk from IBS) has a food court on the B1 floor; more than 10 Korean restaurants, 7 Japanese restaurants, 4 Western restaurants, 4 Chinese restaurants, 1 Vietnamese restaurant. Open daily from 10:30 to 20:00. The 5th and 6th floors has several restaurants too with longer opening hours (open until 21:30).
+- Starbucks on the 38th floor of the EXPO tower (having the Onoma Hotel adjacent to IBS). Open at 8 am daily. Good for breakfast with great view.
+- More [local information](https://travel.dimag.kr/localinfo/).
+
 ## Host 
 
 <div id="logo"><a href="https://dimag.ibs.re.kr/"><img src="/assets/dimag.png" alt="IBS Discrete Mathematics Group" /></a> 
