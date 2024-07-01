@@ -3,8 +3,11 @@
 # 2024 IBS-DIMAG Workshop on Combinatorics and Geometric Measure Theory (CGMT)
 
 ## Plenary Speakers
-- [János Pach](https://www.renyi.hu/~pach/) (Rényi Institute of Mathematics)
-- [Pertti Mattila](https://en.wikipedia.org/wiki/Pertti_Mattila) (University of Helsinki)
+<p><details><summary><a href="https://www.renyi.hu/~pach/">János Pach</a> (Rényi Institute of Mathematics):
+  With strings attached</summary>The intersection graph of a collection \(C\) of sets is the graph whose vertex set is \(C\) and in which two sets in \(C\) are connected by an edge if and only if they have nonempty intersection. String graphs, intersection graphs of continuous curves (``strings") in the plane have been studied intensively since the 1960s, for their exciting algorithmic and combinatorial properties and their applications in chip design, network theory, graph drawing and elsewhere. After giving a whirlwind tour of string graph theory, I will present some recent results and annoying open problems. In particular, I will sketch the proof of the following theorem, joint with Jacob Fox and Andrew Suk. Given a set \(R\) of \(n\) red curves, and and a set \(B\) of \(n\) blue curves in the plane such that any two of them meet at most once, there are subsets \(R' \subset R\) and \(B' \subset B\) with \(|R'|, |B'| \geq \Omega(n)\) with the property that either every curve in \(R'\) crosses every curve in \(B'\), or every curve in \(R'\) is disjoint from every curve in \(B'\).</details></p>
+<p><details><summary><a href="https://en.wikipedia.org/wiki/Pertti_Mattila">Pertti Mattila</a> (University of Helsinki):
+  TBA</summary>Abstract TBA</details></p>
+
 
 ## Tutorial
 - [Alex Iosevich](https://people.math.rochester.edu/faculty/iosevich/) (University of Rochester)
