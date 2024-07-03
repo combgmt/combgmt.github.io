@@ -28,7 +28,7 @@ Travel Instructions: [https://travel.dimag.kr/](https://travel.dimag.kr/)
 - [Ben Lund](http://www.ben-lund.com) (IBS Discrete Mathematics Group)
 - [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/) (IBS Discrete Mathematics Group / KAIST Department of Mathematical Sciences)
 
-## [Book of Abstracts](IBS_workshop_on_interactions_between_combinatorics_and_measure_theory (9).pdf)
+[Book of Abstracts](IBS_workshop_on_interactions_between_combinatorics_and_measure_theory%20(9).pdf)
 
 ## Schedule
 
