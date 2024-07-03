@@ -6,7 +6,7 @@
 <p><details><summary><a href="https://www.renyi.hu/~pach/">János Pach</a> (Rényi Institute of Mathematics):
   With strings attached</summary>The intersection graph of a collection \(C\) of sets is the graph whose vertex set is \(C\) and in which two sets in \(C\) are connected by an edge if and only if they have nonempty intersection. String graphs, intersection graphs of continuous curves (``strings") in the plane have been studied intensively since the 1960s, for their exciting algorithmic and combinatorial properties and their applications in chip design, network theory, graph drawing and elsewhere. After giving a whirlwind tour of string graph theory, I will present some recent results and annoying open problems. In particular, I will sketch the proof of the following theorem, joint with Jacob Fox and Andrew Suk. Given a set \(R\) of \(n\) red curves, and and a set \(B\) of \(n\) blue curves in the plane such that any two of them meet at most once, there are subsets \(R' \subset R\) and \(B' \subset B\) with \(|R'|, |B'| \geq \Omega(n)\) with the property that either every curve in \(R'\) crosses every curve in \(B'\), or every curve in \(R'\) is disjoint from every curve in \(B'\).</details></p>
 <p><details><summary><a href="https://en.wikipedia.org/wiki/Pertti_Mattila">Pertti Mattila</a> (University of Helsinki):
-  TBA</summary>Abstract TBA</details></p>
+  Hausdorff dimension of plane sections and general intersections</summary>I shall discuss conditions on a general family   $P_{\lambda}:\mathbb{R}^n\to\mathbb{R}^m, \lambda \in \Lambda,$ of orthogonal projections and a measure $\omega$ on $\Lambda$ which guarantee that the Hausdorff dimension formula $\dim A\cap P_{\lambda}^{-1}\{u\}=s-m$  holds for $\omega$ almost all $\lambda$ for measurable sets $A\subset\mathbb{R}^n$ with positive and finite $s$-dimensional Hausdorff measure, $s>m$. I shall present some families of projections where this applies. This leads to some new results on the Hausdorff dimension of intersections $\dim A\cap (g(B)+z)$ for almost all rotations $g$ and  for positively many $z\in\mathbb{R}^n$. </details></p>
 
 
 ## Tutorial
@@ -28,11 +28,9 @@ Travel Instructions: [https://travel.dimag.kr/](https://travel.dimag.kr/)
 - [Ben Lund](http://www.ben-lund.com) (IBS Discrete Mathematics Group)
 - [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/) (IBS Discrete Mathematics Group / KAIST Department of Mathematical Sciences)
 
-## Contributed talks
+## [Book of Abstracts](https://github.com/user-attachments/files/15535423/IBS_workshop_on_interactions_between_combinatorics_and_measure_theory.8.pdf)
 
-TBA
-
-## Preliminary schedule
+## Schedule
 
 <div class="calendar">            
     <div class="day-header">Sunday, July 14</div>
@@ -89,8 +87,6 @@ TBA
     <div class="event col-6 time-16-16-30">16:00-16:30 <a href="https://sites.google.com/view/alexander-clifton/home">Alexander Clifton</a> </div>
     <div class="event col-6 time-16-30-17">16:30-17:00 <a href="https://eigen-space.org">Mihalis Kolountzakis</a> </div>
 </div>
-
-[Schedule (PDF)](https://github.com/user-attachments/files/15535423/IBS_workshop_on_interactions_between_combinatorics_and_measure_theory.8.pdf)
 
 ## Restaurant guide
 
