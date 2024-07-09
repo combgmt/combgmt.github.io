@@ -9,8 +9,8 @@
   Hausdorff dimension of plane sections and general intersections</summary>I shall discuss conditions on a general family   \(P_{\lambda}:\mathbb{R}^n\to\mathbb{R}^m, \lambda \in \Lambda,\) of orthogonal projections and a measure \(\omega\) on \(\Lambda\) which guarantee that the Hausdorff dimension formula \(\dim A\cap P_{\lambda}^{-1}\{u\}=s-m\)  holds for \(\omega\) almost all \(\lambda\) for measurable sets \(A\subset\mathbb{R}^n\) with positive and finite \(s\)-dimensional Hausdorff measure, \(s>m\). I shall present some families of projections where this applies. This leads to some new results on the Hausdorff dimension of intersections \(\dim A\cap (g(B)+z)\) for almost all rotations \(g\) and  for positively many \(z\in\mathbb{R}^n\). </details></p>
 
 
-## Tutorial
-- [Alex Iosevich](https://people.math.rochester.edu/faculty/iosevich/) (University of Rochester)
+## <del>Tutorial</del>
+- <del>[Alex Iosevich](https://people.math.rochester.edu/faculty/iosevich/) (University of Rochester)</del> (Cancelled)
 
 ## Invited Speakers
 - [Hong Wang](https://sites.google.com/view/hongwang/home) (NYU)
