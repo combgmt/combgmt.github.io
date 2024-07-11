@@ -16,7 +16,7 @@
 - [Hong Wang](https://sites.google.com/view/hongwang/home) (NYU)
 - [Cosmin Pohoata](https://pohoatza.wordpress.com/about/) (Emory Univiersity)
 <p><details><summary><a href="https://personal.math.ubc.ca/~ilaba/">Izabella Łaba</a> (UBC): A short survey of integer tilings</summary>
-   A set \(A\subset\mathbb{Z\)$ tiles the integers by translations if
+   A set \(A\subset\mathbb{Z}\) tiles the integers by translations if
 there is a set \(T\subset\mathbb{Z}\) such that every integer
 \(n\in\mathbb{Z}\) has a unique representation \(n=a+t\) with \(a\in A\) and
 \(t\in T\). The main open question regarding integer tilings is the
