@@ -48,29 +48,30 @@ Travel Instructions: [https://travel.dimag.kr/](https://travel.dimag.kr/)
     <div class="day-header">Monday, July 15</div>
     <div class="event col-2 time-9-9-30">9:00-9:30 Registration, coffee</div>
     <div class="event col-2 time-9-30-9-40">9:30-9:40 Opening remarks</div>
-    <div class="event col-2 time-9-40-10-40">9:40-10:40 <a href="https://people.math.rochester.edu/faculty/iosevich/">Alex Iosevich</a> <div class="type">Tutorial, session 1</div></div>
+    <div class="event col-2 time-9-40-10-40">9:40-10:40 <a href="https://www.renyi.hu/~pach/">János Pach</a> <div class="type">Plenary lecture</div></div>
     <div class="event col-2 time-10-40-11">10:40-11:00 Coffee break</div>
-    <div class="event col-2 time-11-12">11:00-12:00 <a href="https://www.renyi.hu/~pach/">János Pach</a> <div class="type">Plenary lecture</div></div>
+    <div class="event col-2 time-11-11-30">11:00-11:30 <a href="https://sites.google.com/view/bochen-liu-math">Bochen Liu</a> </div>
+    <div class="event col-2 time-11-30-12">11:30-12:00 <a href="https://www.math.uga.edu/directory/people/giorgis-petridis">Giorgis Petridis</a> </div>
     <div class="event col-2 time-12-14">12:00-14:00 Lunch</div>
-    <div class="event col-2 time-14-15">14:00-15:00 <a href="https://people.math.rochester.edu/faculty/iosevich/">Alex Iosevich</a> <div class="type">Tutorial, session 2</div></div>
+    <div class="event col-2 time-14-14-30">14:00-14:30 <a href="https://mathematics.ku.edu/people/hai-long-dao">Hai Long Dao</a> </div>
+    <div class="event col-2 time-14-30-15">14:30-15:00 <a href="https://people.math.rochester.edu/faculty/jonpak/">Jonathan Pakianathan</a> </div>
     <div class="event col-2 time-15-15-30">15:00-15:30 Coffee break</div>
     <div class="event col-2 time-15-30-17">15:30-17:00 Open Problem Session</div>
     <div class="day-header">Tuesday, July 16</div>
-    <div class="event col-3 time-9-30-10-30">9:30-10:30 <a href="https://people.math.rochester.edu/faculty/iosevich/">Alex Iosevich</a> <div class="type">Tutorial, session 3</div></div>
+    <div class="event col-3 time-9-30-10-30">9:30-10:30 <a href="https://personal.math.ubc.ca/~ilaba/">Izabella Łaba</a> </div>
     <div class="event col-3 time-10-30-11">10:30-11:00 Coffee break</div>
-    <div class="event col-3 time-11-11-30">11:00-11:30 <a href="https://sites.google.com/view/bochen-liu-math">Bochen Liu</a> </div>
-    <div class="event col-3 time-11-30-12">11:30-12:00 <a href="http://alpha.math.uga.edu/~lyall/">Neil Lyall</a> </div>
+    <div class="event col-3 time-11-30-12">11:00-11:30 <a href="https://eigen-space.org">Mihalis Kolountzakis</a> </div>
+    <div class="event col-3 time-11-11-30">11:30-12:00 <a href="https://sites.google.com/view/alexander-clifton/home">Alexander Clifton</a> </div>
     <div class="event col-3 time-12-14">12:00-14:00 Lunch</div>
     <div class="event col-3 time-14-14-30">14:00-14:30 <a href="https://personal.math.vt.edu/palsson/">Eyvindur Palsson</a> </div>
     <div class="event col-3 time-14-30-15">14:30-15:00 <a href="http://people.missouristate.edu/stevensenger/math.html">Steven Senger</a> </div>
-    <div class="event col-3 time-15-16">15:00-16:00 Coffee break</div>
-    <div class="event col-3 time-16-16-30">16:00-16:30 <a href="https://personal.math.ubc.ca/~ilaba/">Izabella Laba</a> </div>
-    <div class="event col-3 time-16-30-17">16:30-17:00 <a href="https://dharmanik.github.io">Manik Dhar</a> </div>
+    <div class="event col-3 time-15-16">15:00-15:30 Coffee break</div>
+    <div class="event col-3 time-15-30-17">15:30-17:00 Small group collaboration</div>
     <div class="day-header">Wednesday, July 17</div>
     <div class="event col-4 time-9-30-10-30">9:30-10:30 <a href="https://en.wikipedia.org/wiki/Pertti_Mattila">Pertti Mattila</a> <div class="type">Plenary lecture</div></div>
     <div class="event col-4 time-10-30-11">10:30-11:00 Coffee break</div>
-    <div class="event col-4 time-11-11-30">11:00-11:30 <a href="https://www.math.uga.edu/directory/people/giorgis-petridis">Giorgis Petridis</a> </div>
-    <div class="event col-4 time-11-30-12">11:30-12:00 <a href="https://people.math.rochester.edu/faculty/jonpak/">Jonathan Pakianathan</a> </div>
+    <div class="event col-4 time-11-11-30">11:00-11:30 <a href="https://sites.google.com/view/weihsuanyu">Wei-Hsuan Yu</a> </div>
+    <div class="event col-4 time-11-30-12">11:30-12:00 <a href="https://dharmanik.github.io/">Manik Dhar</a> </div>    
     <div class="event col-4 time-12-14">12:00-14:00 Lunch</div>
     <div class="event col-4 time-14-19">14:00-19:00 Excursion (<a href="https://gongju.museum.go.kr/eng/index.do">Gongju National Museum</a>, <a href="http://koreantempleguide.com/gapsa-temple-갑사-gongju-chungcheongnam-do/">Gapsa Temple</a>)</div>
     <div class="event col-4 time-19">19:00 Banquet (near Gapsa Temple)</div>
@@ -82,20 +83,18 @@ Travel Instructions: [https://travel.dimag.kr/](https://travel.dimag.kr/)
     <div class="event col-5 time-12-14">12:00-14:00 Lunch</div>
     <div class="event col-5 time-14-14-30">14:00-14:30 <a href="https://aten.cool">Charlotte Aten</a> </div>
     <div class="event col-5 time-14-30-15">14:30-15:00 <a href="https://sites.google.com/site/seminmathematics">Semin Yoo</a> </div>
-    <div class="event col-5 time-15-16">15:00-16:00 Coffee break</div>
-    <div class="event col-5 time-16-16-30">16:00-16:30 <a href="https://math.berkeley.edu/people/grad/olivine-silier">Olivine Silier</a> </div>
-    <div class="event col-5 time-16-30-17">16:30-17:00 <a href="https://uwaterloo.ca/combinatorics-and-optimization/contacts/matthew-kroeker">Matthew Kroeker</a> </div>
+    <div class="event col-5 time-15-16">15:00-15:30 Coffee break</div>
+    <div class="event col-5 time-15-30-17">15:30-17:00 Small group collaboration</div>
     <div class="day-header">Friday, July 19</div>
     <div class="event col-6 time-9-30-10-30">9:30-10:30 <a href="https://pohoatza.wordpress.com/about/">Cosmin Pohoata</a> <div class="type">Invited lecture</div></div>
     <div class="event col-6 time-10-30-11">10:30-11:00 Coffee break</div>
     <div class="event col-6 time-11-11-30">11:00-11:30 <a href="http://mathsci.kaist.ac.kr/~andreash/newpage/home.html">Andreas Holmsen</a> </div>
     <div class="event col-6 time-11-30-12">11:30-12:00 <a href="https://sites.google.com/view/jinhakim">Jinha Kim</a> </div>
     <div class="event col-6 time-12-14">12:00-14:00 Lunch</div>
-    <div class="event col-6 time-14-14-30">14:00-14:30 <a href="https://mathematics.ku.edu/people/hai-long-dao">Hai Long Dao</a> </div>
-    <div class="event col-6 time-14-30-15">14:30-15:00 <a href="https://sites.google.com/view/weihsuanyu">Wei-Hsuan Yu</a> </div>
-    <div class="event col-6 time-15-16">15:00-16:00 Coffee break</div>
-    <div class="event col-6 time-16-16-30">16:00-16:30 <a href="https://sites.google.com/view/alexander-clifton/home">Alexander Clifton</a> </div>
-    <div class="event col-6 time-16-30-17">16:30-17:00 <a href="https://eigen-space.org">Mihalis Kolountzakis</a> </div>
+    <div class="event col-6 time-14-14-30">14:00-14:30 <a href="https://math.berkeley.edu/people/grad/olivine-silier">Olivine Silier</a> </div>
+    <div class="event col-6 time-14-30-15">14:30-15:00 <a href="https://uwaterloo.ca/combinatorics-and-optimization/contacts/matthew-kroeker">Matthew Kroeker</a> </div>
+    <div class="event col-6 time-15-16">15:00-15:30 Coffee break</div>
+    <div class="event col-6 time-15-30-17">15:30-17:00 Small group collaboration</div>
 </div>
 
 ## Restaurant guide
