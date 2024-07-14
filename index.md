@@ -13,8 +13,14 @@
 - <del>[Alex Iosevich](https://people.math.rochester.edu/faculty/iosevich/) (University of Rochester)</del> (Cancelled)
 
 ## Invited Speakers
-- [Hong Wang](https://sites.google.com/view/hongwang/home) (NYU)
-- [Cosmin Pohoata](https://pohoatza.wordpress.com/about/) (Emory Univiersity)
+<p><details><summary><a href="https://sites.google.com/view/hongwang/home">Hong Wang</a> (NYU): Some structure of Kakeya sets in \(R^3\)</summary>
+A Kakeya set in \(R^n\) is a set of points that contains a unit line
+segment in every direction. We study the structure of Kakeya sets in \(R^3\)
+and show that  for any Kakeya set \(K\), there exists well-separated scales
+\(0 < \delta < \rho\leq 1\) so that the \delta-neighborhood of \(K\) is almost as large
+as the \rho-neighborhood of \(K\).  As a consequence, every Kakeya set in \(R^3\)
+has Assouad dimension \(3\).  This is joint work with Josh Zahl.</details></p>
+<p><details><summary><a href="https://pohoatza.wordpress.com/about/">Cosmin Pohoata</a> Emory Univiersity</summary></details></p>
 <p><details><summary><a href="https://personal.math.ubc.ca/~ilaba/">Izabella Łaba</a> (UBC): A short survey of integer tilings</summary>
    A set \(A\subset\mathbb{Z}\) tiles the integers by translations if
 there is a set \(T\subset\mathbb{Z}\) such that every integer
@@ -38,7 +44,7 @@ Travel Instructions: [https://travel.dimag.kr/](https://travel.dimag.kr/)
 - [Ben Lund](http://www.ben-lund.com) (IBS Discrete Mathematics Group)
 - [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/) (IBS Discrete Mathematics Group / KAIST Department of Mathematical Sciences)
 
-## [Schedule and Abstracts](IBS_workshop_on_interactions_between_combinatorics_and_measure_theory%20(11).pdf) (PDF file)
+## [Schedule and Abstracts](IBS_workshop_on_interactions_between_combinatorics_and_measure_theory%20(12).pdf) (PDF file)
 
 ## Schedule
 
