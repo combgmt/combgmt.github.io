@@ -59,7 +59,7 @@ Travel Instructions: [https://travel.dimag.kr/](https://travel.dimag.kr/)
     <div class="event col-2 time-11-11-30">11:00-11:30 <a href="https://sites.google.com/view/bochen-liu-math">Bochen Liu</a> </div>
     <div class="event col-2 time-11-30-12">11:30-12:00 <a href="https://www.math.uga.edu/directory/people/giorgis-petridis">Giorgis Petridis</a> </div>
     <div class="event col-2 time-12-14">12:00-14:00 Lunch</div>
-    <div class="event col-4 time-11-30-12">11:30-12:00 <a href="https://dharmanik.github.io/">Manik Dhar</a> </div>    
+    <div class="event col-2 time-14-14-30">14:00-14:30 <a href="https://dharmanik.github.io/">Manik Dhar</a> </div>    
     <div class="event col-2 time-14-30-15">14:30-15:00 <a href="https://people.math.rochester.edu/faculty/jonpak/">Jonathan Pakianathan</a> </div>
     <div class="event col-2 time-15-15-30">15:00-15:30 Coffee break</div>
     <div class="event col-2 time-15-30-17">15:30-17:00 Open Problem Session</div>
@@ -77,7 +77,7 @@ Travel Instructions: [https://travel.dimag.kr/](https://travel.dimag.kr/)
     <div class="event col-4 time-9-30-10-30">9:30-10:30 <a href="https://en.wikipedia.org/wiki/Pertti_Mattila">Pertti Mattila</a> <div class="type">Plenary lecture</div></div>
     <div class="event col-4 time-10-30-11">10:30-11:00 Coffee break</div>
     <div class="event col-4 time-11-11-30">11:00-11:30 <a href="https://sites.google.com/view/weihsuanyu">Wei-Hsuan Yu</a> </div>
-    <div class="event col-2 time-14-14-30">14:00-14:30 <a href="https://mathematics.ku.edu/people/hai-long-dao">Hai Long Dao</a> </div>
+    <div class="event col-4 time-11-30-12">11:30-12:00 <a href="https://mathematics.ku.edu/people/hai-long-dao">Hai Long Dao</a> </div>
     <div class="event col-4 time-12-14">12:00-14:00 Lunch</div>
     <div class="event col-4 time-14-19">14:00-19:00 Excursion (<a href="https://gongju.museum.go.kr/eng/index.do">Gongju National Museum</a>, <a href="http://koreantempleguide.com/gapsa-temple-갑사-gongju-chungcheongnam-do/">Gapsa Temple</a>)</div>
     <div class="event col-4 time-19">19:00 Banquet (near Gapsa Temple)</div>
