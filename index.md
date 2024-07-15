@@ -64,7 +64,7 @@ Travel Instructions: [https://travel.dimag.kr/](https://travel.dimag.kr/)
     <div class="event col-2 time-15-15-30">15:00-15:30 Coffee break</div>
     <div class="event col-2 time-15-30-17">15:30-17:00 Open Problem Session</div>
     <div class="day-header">Tuesday, July 16</div>
-    <div class="event col-3 time-9-30-10-30">9:30-10:30 <a href="https://personal.math.ubc.ca/~ilaba/">Izabella Łaba</a> </div>
+    <div class="event col-3 time-9-30-10-30">9:30-10:30 <a href="https://personal.math.ubc.ca/~ilaba/">Izabella Łaba</a> <div class="type">Invited lecture</div></div>
     <div class="event col-3 time-10-30-11">10:30-11:00 Coffee break</div>
     <div class="event col-3 time-11-30-12">11:00-11:30 <a href="https://eigen-space.org">Mihalis Kolountzakis</a> </div>
     <div class="event col-3 time-11-11-30">11:30-12:00 <a href="https://sites.google.com/view/alexander-clifton/home">Alexander Clifton</a> </div>
