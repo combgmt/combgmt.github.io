@@ -20,7 +20,7 @@ and show that  for any Kakeya set \(K\), there exists well-separated scales
 \(0 < \delta < \rho\leq 1\) so that the \delta-neighborhood of \(K\) is almost as large
 as the \rho-neighborhood of \(K\).  As a consequence, every Kakeya set in \(R^3\)
 has Assouad dimension \(3\).  This is joint work with Josh Zahl.</details></p>
-<p><details><summary><a href="https://pohoatza.wordpress.com/about/">Cosmin Pohoata</a> Emory Univiersity</summary></details></p>
+<p><details><summary><a href="https://pohoatza.wordpress.com/about/">Cosmin Pohoata</a> (Emory Univiersity): Heilbronn triangle problem</summary></details></p>
 <p><details><summary><a href="https://personal.math.ubc.ca/~ilaba/">Izabella Łaba</a> (UBC): A short survey of integer tilings</summary>
    A set \(A\subset\mathbb{Z}\) tiles the integers by translations if
 there is a set \(T\subset\mathbb{Z}\) such that every integer
@@ -79,8 +79,8 @@ Travel Instructions: [https://travel.dimag.kr/](https://travel.dimag.kr/)
     <div class="event col-4 time-11-11-30">11:00-11:30 <a href="https://sites.google.com/view/weihsuanyu">Wei-Hsuan Yu</a> </div>
     <div class="event col-4 time-11-30-12">11:30-12:00 <a href="https://mathematics.ku.edu/people/hai-long-dao">Hai Long Dao</a> </div>
     <div class="event col-4 time-12-14">12:00-14:00 Lunch</div>
-    <div class="event col-4 time-14-19">14:00-19:00 Excursion (<a href="https://gongju.museum.go.kr/eng/index.do">Gongju National Museum</a>, <a href="http://koreantempleguide.com/gapsa-temple-갑사-gongju-chungcheongnam-do/">Gapsa Temple</a>)</div>
-    <div class="event col-4 time-19">19:00 Banquet (near Gapsa Temple)</div>
+    <div class="event col-4 time-14-19">14:00-18:30 Excursion (<a href="https://gongju.museum.go.kr/eng/index.do">Gongju National Museum</a>, <a href="http://koreantempleguide.com/gapsa-temple-갑사-gongju-chungcheongnam-do/">Gapsa Temple</a>)</div>
+    <div class="event col-4 time-19">18:30 Banquet (near Gapsa Temple)</div>
     <div class="day-header">Thursday, July 18</div>
     <div class="event col-5 time-9-30-10-30">9:30-10:30 <a href="https://sites.google.com/view/hongwang/home">Hong Wang</a> <div class="type">Invited lecture</div></div>
     <div class="event col-5 time-10-30-11">10:30-11:00 Coffee break</div>
