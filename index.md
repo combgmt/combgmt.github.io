@@ -16,7 +16,7 @@ and show that  for any Kakeya set \(K\), there exists well-separated scales
 \(0 < \delta < \rho\leq 1\) so that the \delta-neighborhood of \(K\) is almost as large
 as the \rho-neighborhood of \(K\).  As a consequence, every Kakeya set in \(R^3\)
 has Assouad dimension \(3\).  This is joint work with Josh Zahl.</details></p>
-<p><details><summary><a href="https://pohoatza.wordpress.com/about/">Cosmin Pohoata</a> (Emory Univiersity): Heilbronn triangle problem <a href=:assets/IBS_talk_Pohoata.pdf" download>Slides</a></summary>The Heilbronn triangle problem is a classical problem in discrete geometry with several new connections to various topics in extremal and additive combinatorics, incidence geometry, harmonic analysis, and projection theory. In this talk, we will give an overview of some of these connections, and discuss some recent developments. Based on joint work with Alex Cohen and Dmitrii Zakharov.</details></p>
+<p><details><summary><a href="https://pohoatza.wordpress.com/about/">Cosmin Pohoata</a> (Emory Univiersity): Heilbronn triangle problem <a href="assets/IBS_talk_Pohoata.pdf" download>Slides</a></summary>The Heilbronn triangle problem is a classical problem in discrete geometry with several new connections to various topics in extremal and additive combinatorics, incidence geometry, harmonic analysis, and projection theory. In this talk, we will give an overview of some of these connections, and discuss some recent developments. Based on joint work with Alex Cohen and Dmitrii Zakharov.</details></p>
 <p><details><summary><a href="https://personal.math.ubc.ca/~ilaba/">Izabella Łaba</a> (UBC): A short survey of integer tilings <a href="assets/Laba.pdf" download>Slides</a></summary>
    A set \(A\subset\mathbb{Z}\) tiles the integers by translations if
 there is a set \(T\subset\mathbb{Z}\) such that every integer
@@ -50,7 +50,7 @@ Travel Instructions: [https://travel.dimag.kr/](https://travel.dimag.kr/)
     <div class="day-header">Monday, July 15</div>
     <div class="event col-2 time-9-9-30">9:00-9:30 Registration, coffee</div>
     <div class="event col-2 time-9-30-9-40">9:30-9:40 Opening remarks</div>
-    <div class="event col-2 time-9-40-10-40">9:40-10:40 <a href="https://www.renyi.hu/~pach/">János Pach</a> <div class="type">Plenary lecture</div></div>
+    <div class="event col-2 time-9-40-10-40">9:40-10:40 <a href="https://www.renyi.hu/~pach/">János Pach</a> <a href="assets/Janos.pdf" download>Slides</a> <div class="type">Plenary lecture</div></div>
     <div class="event col-2 time-10-40-11">10:40-11:00 Coffee break</div>
     <div class="event col-2 time-11-11-30">11:00-11:30 <a href="https://sites.google.com/view/bochen-liu-math">Bochen Liu</a> </div>
     <div class="event col-2 time-11-30-12">11:30-12:00 <a href="https://www.math.uga.edu/directory/people/giorgis-petridis">Giorgis Petridis</a> </div>
@@ -60,38 +60,38 @@ Travel Instructions: [https://travel.dimag.kr/](https://travel.dimag.kr/)
     <div class="event col-2 time-15-15-30">15:00-15:30 Coffee break</div>
     <div class="event col-2 time-15-30-17">15:30-17:00 Open Problem Session</div>
     <div class="day-header">Tuesday, July 16</div>
-    <div class="event col-3 time-9-30-10-30">9:30-10:30 <a href="https://personal.math.ubc.ca/~ilaba/">Izabella Łaba</a> <div class="type">Invited lecture</div></div>
+    <div class="event col-3 time-9-30-10-30">9:30-10:30 <a href="https://personal.math.ubc.ca/~ilaba/">Izabella Łaba</a> <a href="assets/Laba.pdf" download> Slides</a><div class="type">Invited lecture</div></div>
     <div class="event col-3 time-10-30-11">10:30-11:00 Coffee break</div>
-    <div class="event col-3 time-11-11-30">11:00-11:30 <a href="https://eigen-space.org">Mihalis Kolountzakis</a> </div>
-    <div class="event col-3 time-11-30-12">11:30-12:00 <a href="https://sites.google.com/view/alexander-clifton/home">Alexander Clifton</a> </div>
+    <div class="event col-3 time-11-11-30">11:00-11:30 <a href="https://eigen-space.org">Mihalis Kolountzakis</a> <a href="assets/kolountzakis.pdf" download> Slides</a></div>
+    <div class="event col-3 time-11-30-12">11:30-12:00 <a href="https://sites.google.com/view/alexander-clifton/home">Alexander Clifton</a> <a href="assets/alexander%20clifton.pdf" download>Slides</a> </div>
     <div class="event col-3 time-12-14">12:00-14:00 Lunch</div>
-    <div class="event col-3 time-14-14-30">14:00-14:30 <a href="https://personal.math.vt.edu/palsson/">Eyvindur Palsson</a> </div>
-    <div class="event col-3 time-14-30-15">14:30-15:00 <a href="http://people.missouristate.edu/stevensenger/math.html">Steven Senger</a> </div>
+    <div class="event col-3 time-14-14-30">14:00-14:30 <a href="https://personal.math.vt.edu/palsson/">Eyvindur Palsson</a> <a href="assets/PalssonIBS-DIMAG.pdf" download>Slides</a> </div>
+    <div class="event col-3 time-14-30-15">14:30-15:00 <a href="http://people.missouristate.edu/stevensenger/math.html">Steven Senger</a> <a href="assets/senger.pdf" download>Slides</a></div>
     <div class="event col-3 time-15-16">15:00-15:30 Coffee break</div>
     <div class="event col-3 time-15-30-17">15:30-17:00 Small group collaboration</div>
     <div class="day-header">Wednesday, July 17</div>
     <div class="event col-4 time-9-30-10-30">9:30-10:30 <a href="https://en.wikipedia.org/wiki/Pertti_Mattila">Pertti Mattila</a> <div class="type">Plenary lecture</div></div>
     <div class="event col-4 time-10-30-11">10:30-11:00 Coffee break</div>
-    <div class="event col-4 time-11-11-30">11:00-11:30 <a href="https://sites.google.com/view/weihsuanyu">Wei-Hsuan Yu</a> </div>
+    <div class="event col-4 time-11-11-30">11:00-11:30 <a href="https://sites.google.com/view/weihsuanyu">Wei-Hsuan Yu</a> <a href="assets/wei%20hsuan%20yu.pdf" download>Slides</a></div>
     <div class="event col-4 time-11-30-12">11:30-12:00 <a href="https://mathematics.ku.edu/people/hai-long-dao">Hai Long Dao</a> </div>
     <div class="event col-4 time-12-14">12:00-14:00 Lunch</div>
     <div class="event col-4 time-14-19">14:00-18:30 Excursion (<a href="https://gongju.museum.go.kr/eng/index.do">Gongju National Museum</a>, <a href="http://koreantempleguide.com/gapsa-temple-갑사-gongju-chungcheongnam-do/">Gapsa Temple</a>)</div>
     <div class="event col-4 time-19">18:30 Banquet (near Gapsa Temple)</div>
     <div class="day-header">Thursday, July 18</div>
-    <div class="event col-5 time-9-30-10-30">9:30-10:30 <a href="https://sites.google.com/view/hongwang/home">Hong Wang</a> <div class="type">Invited lecture</div></div>
+    <div class="event col-5 time-9-30-10-30">9:30-10:30 <a href="https://sites.google.com/view/hongwang/home">Hong Wang</a> <a href="assets/hong%20wang.pdf" download>Slides</a> <div class="type">Invited lecture</div></div>
     <div class="event col-5 time-10-30-11">10:30-11:00 Coffee break</div>
     <div class="event col-5 time-11-11-30">11:00-11:30 <a href="https://sites.google.com/view/alanchang/home">Alan Chang</a> </div>
-    <div class="event col-5 time-11-30-12">11:30-12:00 <a href="https://sites.google.com/view/terryljh/home">Terry Harris</a> </div>
+    <div class="event col-5 time-11-30-12">11:30-12:00 <a href="https://sites.google.com/view/terryljh/home">Terry Harris</a> <a href="assets/terry%20harris.pdf" download>Slides</a></div>
     <div class="event col-5 time-12-14">12:00-14:00 Lunch</div>
-    <div class="event col-5 time-14-14-30">14:00-14:30 <a href="https://aten.cool">Charlotte Aten</a> </div>
+    <div class="event col-5 time-14-14-30">14:00-14:30 <a href="https://aten.cool">Charlotte Aten</a> <a href="assets/aten_ibs_workshop_2024" download>Slides</a></div>
     <div class="event col-5 time-14-30-15">14:30-15:00 <a href="https://sites.google.com/site/seminmathematics">Semin Yoo</a> </div>
     <div class="event col-5 time-15-16">15:00-15:30 Coffee break</div>
     <div class="event col-5 time-15-30-17">15:30-17:00 Small group collaboration</div>
     <div class="day-header">Friday, July 19</div>
-    <div class="event col-6 time-9-30-10-30">9:30-10:30 <a href="https://pohoatza.wordpress.com/about/">Cosmin Pohoata</a> <div class="type">Invited lecture</div></div>
+    <div class="event col-6 time-9-30-10-30">9:30-10:30 <a href="https://pohoatza.wordpress.com/about/">Cosmin Pohoata</a> <a href="assets/IBS_talk_Pohoata" download>Slides</a> <div class="type">Invited lecture</div></div>
     <div class="event col-6 time-10-30-11">10:30-11:00 Coffee break</div>
-    <div class="event col-6 time-11-11-30">11:00-11:30 <a href="http://mathsci.kaist.ac.kr/~andreash/newpage/home.html">Andreas Holmsen</a> </div>
-    <div class="event col-6 time-11-30-12">11:30-12:00 <a href="https://sites.google.com/view/jinhakim">Jinha Kim</a> </div>
+    <div class="event col-6 time-11-11-30">11:00-11:30 <a href="http://mathsci.kaist.ac.kr/~andreash/newpage/home.html">Andreas Holmsen</a> <a href="assets/andreas%20holmsen.pdf" download>Slides</a> </div>
+    <div class="event col-6 time-11-30-12">11:30-12:00 <a href="https://sites.google.com/view/jinhakim">Jinha Kim</a> <a href="assets/talk_jinhakim_240719.pdf" download>Slides</a> </div>
     <div class="event col-6 time-12-14">12:00-14:00 Lunch</div>
     <div class="event col-6 time-14-14-30">14:00-14:30 <a href="https://math.berkeley.edu/people/grad/olivine-silier">Olivine Silier</a> </div>
     <div class="event col-6 time-14-30-15">14:30-15:00 <a href="https://uwaterloo.ca/combinatorics-and-optimization/contacts/matthew-kroeker">Matthew Kroeker</a> </div>
