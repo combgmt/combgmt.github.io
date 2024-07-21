@@ -8,20 +8,16 @@
 <p><details><summary><a href="https://en.wikipedia.org/wiki/Pertti_Mattila">Pertti Mattila</a> (University of Helsinki):
   Hausdorff dimension of plane sections and general intersections</summary>I shall discuss conditions on a general family   \(P_{\lambda}:\mathbb{R}^n\to\mathbb{R}^m, \lambda \in \Lambda,\) of orthogonal projections and a measure \(\omega\) on \(\Lambda\) which guarantee that the Hausdorff dimension formula \(\dim A\cap P_{\lambda}^{-1}\{u\}=s-m\)  holds for \(\omega\) almost all \(\lambda\) for measurable sets \(A\subset\mathbb{R}^n\) with positive and finite \(s\)-dimensional Hausdorff measure, \(s>m\). I shall present some families of projections where this applies. This leads to some new results on the Hausdorff dimension of intersections \(\dim A\cap (g(B)+z)\) for almost all rotations \(g\) and  for positively many \(z\in\mathbb{R}^n\). </details></p>
 
-
-## <del>Tutorial</del>
-- <del>[Alex Iosevich](https://people.math.rochester.edu/faculty/iosevich/) (University of Rochester)</del> (Cancelled)
-
 ## Invited Speakers
-<p><details><summary><a href="https://sites.google.com/view/hongwang/home">Hong Wang</a> (NYU): Some structure of Kakeya sets in \(R^3\)</summary>
+<p><details><summary><a href="https://sites.google.com/view/hongwang/home">Hong Wang</a> (NYU): Some structure of Kakeya sets in \(R^3\) <a href="assets/hong%20wang.pdf" download>Slides</a></summary>
 A Kakeya set in \(R^n\) is a set of points that contains a unit line
 segment in every direction. We study the structure of Kakeya sets in \(R^3\)
 and show that  for any Kakeya set \(K\), there exists well-separated scales
 \(0 < \delta < \rho\leq 1\) so that the \delta-neighborhood of \(K\) is almost as large
 as the \rho-neighborhood of \(K\).  As a consequence, every Kakeya set in \(R^3\)
 has Assouad dimension \(3\).  This is joint work with Josh Zahl.</details></p>
-<p><details><summary><a href="https://pohoatza.wordpress.com/about/">Cosmin Pohoata</a> (Emory Univiersity): Heilbronn triangle problem</summary></details></p>
-<p><details><summary><a href="https://personal.math.ubc.ca/~ilaba/">Izabella Łaba</a> (UBC): A short survey of integer tilings</summary>
+<p><details><summary><a href="https://pohoatza.wordpress.com/about/">Cosmin Pohoata</a> (Emory Univiersity): Heilbronn triangle problem <a href=:assets/IBS_talk_Pohoata.pdf" download>Slides</a></summary>The Heilbronn triangle problem is a classical problem in discrete geometry with several new connections to various topics in extremal and additive combinatorics, incidence geometry, harmonic analysis, and projection theory. In this talk, we will give an overview of some of these connections, and discuss some recent developments. Based on joint work with Alex Cohen and Dmitrii Zakharov.</details></p>
+<p><details><summary><a href="https://personal.math.ubc.ca/~ilaba/">Izabella Łaba</a> (UBC): A short survey of integer tilings <a href="assets/Laba.pdf" download>Slides</a></summary>
    A set \(A\subset\mathbb{Z}\) tiles the integers by translations if
 there is a set \(T\subset\mathbb{Z}\) such that every integer
 \(n\in\mathbb{Z}\) has a unique representation \(n=a+t\) with \(a\in A\) and
